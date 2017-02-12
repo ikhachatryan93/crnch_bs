@@ -1,0 +1,11 @@
+[search_info]
+urls = https://www.crunchbase.com/app/search/companies/249a41b33de7bc8b2d2a3edcdd266278bae9c7dd
+#urls = https://www.whatismybrowser.com/
+max_category_scroll_downs = 5000
+
+[extraction_info]
+# Extraction of reviews slows down the speed
+# Anyway you can enable it
+
+[parameters]
+threads = 20
